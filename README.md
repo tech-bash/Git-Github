@@ -52,11 +52,11 @@ Note: There are plenty of resources available online for more detailed reading. 
 
 1. **Do you want to fix a bug?**
 
-    - Fork [this](https://github.com/rajagond/git_assignment) repository. This will create a copy of repository on your account. <br>
+    - Fork [this](https://github.com/tech-bash/Git-rep) repository. This will create a copy of repository on your account. <br>
 
 
     <p align="center">
-    <img src="C:\Users\airik\Downloads\Screenshot-_204_.webp"/>
+    <img src="./fork.png" width = "960"/>
     </p>
 
 
@@ -64,7 +64,7 @@ Note: There are plenty of resources available online for more detailed reading. 
 
 
     <p align="center">
-    <img src="./clone_repo.png" width = "1024"/>
+    <img src="./clone.png" width = "960"/>
     </p>
 
   
